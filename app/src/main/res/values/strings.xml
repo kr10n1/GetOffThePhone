@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">GetOffThePhone</string>
+    <string name="charging_reminder_notification_title">test</string>
+    <string name="charging_reminder_notification_body">test2</string>
+    <string name="main_notification_channel_name">test3</string>
+    <string name="button">Button</string>
 </resources>
