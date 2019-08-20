@@ -25,7 +25,6 @@
         android:padding="16dp"
         android:paddingTop="20dp"
         android:gravity="center_horizontal"
-        android:onClick="notify"
         android:text="@string/button"/>
 
 </LinearLayout>
